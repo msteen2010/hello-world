@@ -2,7 +2,7 @@ import os
 import uuid
 from flask import Flask
 
-#update on Thursday morning
+#update on Thursday mornin
 
 app = Flask(__name__)
 my_uuid = str(uuid.uuid1())
